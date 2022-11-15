@@ -49,7 +49,6 @@ public class FixMe {
 					}
 				}
 			}
-
 			// Print newline
 			output += "\n";
 		}
